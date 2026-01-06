@@ -1,8 +1,8 @@
-<h1 align="center">Haadi Razzak</h1>
+<h1 align="left">Haadi Razzak</h1>
 
 ###
 
-<h4 align="center">Software Engineer at AWS</h4>
+<h4 align="left">Software Engineer at AWS</h4>
 
 ###
 
