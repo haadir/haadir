@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since graduating from USC with a degree in Computer Science 🎓💻<br><br>📚 I'm currently learning Rust 🦀 and exploring systems & performance-focused programming ⚙️<br><br>🎯 Goals:<br>- Build scalable, high-impact software 🚀<br>- Build an app with active users<br><br>🎲 Fun facts:<br>- 🏀 I play basketball and love competitive runs<br>- 💈 I cut hair as a barber on the side<br>- 📖 Currently reading *Basic Economics* by Thomas Sowell</p>
+<p align="left">✨ Creating bugs since graduating from USC with a degree in Computer Science 🎓💻<br><br>📚 I'm currently learning Rust 🦀 and exploring systems & performance-focused programming ⚙️<br><br>🎯 Goals:<br>- Build scalable, high-impact software 🚀<br>- Build an app with active users<br><br>🎲 Fun facts:<br>- 🏀 I love basketball<br>- 💈 I cut hair as a barber on the side<br>- 📖 Currently reading *Basic Economics* by Thomas Sowell</p>
 
 ###
 
